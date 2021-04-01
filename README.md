@@ -1,1 +1,1 @@
-# polymer_homework
+# short projects from polymer courses
